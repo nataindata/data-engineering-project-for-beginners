@@ -5,6 +5,8 @@ Real case project to give you a hands-on experience in creating your own Airflow
 
 ## 🧭 Plan:
 
+<img width="1728" alt="Data Pipeline using Airflow for Beginners" src="https://github.com/nataindata/data-engineering-project-for-beginners/assets/139707781/414160b5-0745-482a-a011-ec641b390c62">
+
 Pull OpenWeather API data → Data in data lake as Parquet files on GCP platform → Staging to Production tables in Data Warehouse (BigQuery)
 
 🏆 Run the pipeline with Airflow using [Coder](https://coder.com/) - an open-source cloud development environment you download and host in any cloud. It deploys in seconds and provisions the infrastructure, IDE, language, and tools you want. Used as the best practice in Palantir, Dropbox, Discord, and many more. 
@@ -57,6 +59,8 @@ Now let’s create a workspace from the template:
 click Workspaces → Create → Choose your newly built template → Click Airflow button → Create user → Tada 🎉 
 
 Now your Airflow instance ready & steady 🏎️
+
+<img width="1726" alt="Coder platform Airflow" src="https://github.com/nataindata/data-engineering-project-for-beginners/assets/139707781/0fed6891-dcbd-4ed8-ad73-f1693640c95f">
 
 
 
